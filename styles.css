@@ -71,6 +71,14 @@ body {
   input {
     margin: 10px;
   }
+
   button {
     margin: 10px;
   }
+
+  form {
+    text-align: center;
+    color: #333;
+    margin: 20px;
+  }
+
