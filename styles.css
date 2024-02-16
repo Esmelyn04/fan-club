@@ -23,7 +23,7 @@ body {
     margin: 0;
     padding: 0;
   }
-  
+
   h1 {
     text-align: center;
     color: #333;
@@ -45,4 +45,19 @@ body {
   }
   button {
     margin: 10px;
+  }
+  .image {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+  }
+
+  .description {
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
   }
