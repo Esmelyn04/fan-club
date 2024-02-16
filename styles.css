@@ -30,10 +30,18 @@ body {
     margin-top: 20px;
   }
 
+  h2, h3 {
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
+  }
+
   ul {
     text-align: center;
     color: #333;
     margin-top: 20px;
+    list-style: inside;
+    
   }
   form {
     text-align: center;
@@ -53,7 +61,15 @@ body {
     height: auto;
     margin-top: 20px;
     margin-bottom: 20px;
+  }
 
+  .image2 {
+    width: 450px;
+    height: 550;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: block;
+    margin: 0 auto;
   }
 
   .description {
